@@ -402,7 +402,7 @@ export default function Navbar() {
                         Marketing Services
                       </h3>
                       <ul className="space-y-3 text-sm">
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <MessageCircle size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
@@ -413,8 +413,8 @@ export default function Navbar() {
                             </p>
                           </div>
                         </li>
-                        <li className="flex items-start gap-2 group cursor-pointer">
-                          <Zap size={16} className="text-emerald-600 mt-0.5" />
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
+                          <Zap size={16} className="text-emerald-600 mt-0.5 " />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
                               Promotional SMS
@@ -424,7 +424,7 @@ export default function Navbar() {
                             </p>
                           </div>
                         </li>
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <Phone size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
@@ -444,7 +444,7 @@ export default function Navbar() {
                         Digital Services
                       </h3>
                       <ul className="space-y-3 text-sm">
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <Globe size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
@@ -455,7 +455,7 @@ export default function Navbar() {
                             </p>
                           </div>
                         </li>
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <Zap size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
@@ -466,7 +466,7 @@ export default function Navbar() {
                             </p>
                           </div>
                         </li>
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <MessageCircle size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
@@ -486,7 +486,7 @@ export default function Navbar() {
                         Cloud Telephony
                       </h3>
                       <ul className="space-y-3 text-sm">
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <Mic size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
@@ -497,7 +497,7 @@ export default function Navbar() {
                             </p>
                           </div>
                         </li>
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <Cloud size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
@@ -508,7 +508,7 @@ export default function Navbar() {
                             </p>
                           </div>
                         </li>
-                        <li className="flex items-start gap-2 group cursor-pointer">
+                        <li className="flex items-start gap-2 group cursor-pointer p-2 hover:bg-green-50 rounded-md">
                           <Phone size={16} className="text-emerald-600 mt-0.5" />
                           <div>
                             <p className="font-medium group-hover:text-emerald-700 transition">
